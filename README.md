@@ -34,5 +34,3 @@ Focused on automating **month-end closure activities** and **supplier verificati
 
 ---
 
-📧 **Contact:** perarul.selvan@quadrobay.com  
-💼 **Role:** Junior Oracle Consultant – Quadrobay Technologies Pvt Ltd
